@@ -8,11 +8,11 @@
     <p>GraphQL</p>
     <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
   </div>
-    <div>
+  <div>
     <p>PostgresQL</p>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   </div>
-    <div>
+  <div>
     <p>Python</p>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   </div>
