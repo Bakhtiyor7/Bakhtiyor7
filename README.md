@@ -1,8 +1,23 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on the backend of a blockchain explorer website "Tamsa"
-- 🌱 I’m currently learning GraphQL, PostgresQL, Python etc.
+- 🔭 I’m currently working on the backend of a blockchain explorer website and a digital signing project.
+- 🌱 I’m currently learning:
+<div display="flex">
+  <div>
+    <p>GraphQL</p>
+    <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  </div>
+    <div>
+    <p>PostgresQL</p>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </div>
+    <div>
+    <p>Python</p>
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  </div>
+</div>
+ etc.
 - 👯 I’m looking to collaborate on E-commerce, Health, Fashion and more appealing projects.
 - 💬 Ask me about NestJS, React, Node.js, JavaScript/TypeScript (and a bit of Web3).
 - 📫 How to reach me:
