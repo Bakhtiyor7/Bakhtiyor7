@@ -7,15 +7,12 @@
 <table>
   <tr>
     <td>
-      <p>GraphQL</p>
       <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
     </td>
     <td>
-      <p>PostgresQL</p>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
     </td>
     <td>
-      <p>Python</p>
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
     </td>
   </tr>
@@ -31,16 +28,53 @@
       <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     </td>
     <td>
+      <p>JavaScript/TypeScript</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+    </td>
+    <td>
+      <p>Express</p>
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+    </td>
+    <td>
+      <p>NestJS</p>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <p>GraphQL</p>
       <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
     </td>
     <td>
-      <p>PostgresQL</p>
+      <p>MySQL</p>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    </td>
+    <td>
+      <p>PostgreSQL</p>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
     </td>
     <td>
-      <p>Python</p>
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+      <p>MongoDB</p>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>AWS</p>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    </td>
+    <td>
+      <p>Huawei Cloud</p>
+      <img src="https://img.shields.io/badge/Huawei%20Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white"/>
+    </td>
+    <td>
+      <p>React</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    </td>
+    <td>
+      <p>Styled Components</p>
+      <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/>
     </td>
   </tr>
 </table>
