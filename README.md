@@ -6,7 +6,7 @@
 
 ### 💬 I am using: 
 <table>
-  <tr>
+  <tr align="center">
     <td>
       <p>Node.js</p>
       <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -25,7 +25,7 @@
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
     </td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>
       <p>GraphQL</p>
       <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
@@ -43,7 +43,7 @@
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
     </td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>
       <p>AWS</p>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
