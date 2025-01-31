@@ -21,7 +21,27 @@
 </table>
  etc.
 - 👯 I’m looking to collaborate on E-commerce, Health, Fashion and more appealing projects.
-- 💬 Ask me about NestJS, React, Node.js, JavaScript/TypeScript (and a bit of Web3).
+- 💬 Technologies I am using: 
+<table>
+  <tr>
+    <td>
+      <p>Node.js</p>
+      <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    </td>
+    <td>
+      <p>GraphQL</p>
+      <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+    </td>
+    <td>
+      <p>PostgresQL</p>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    </td>
+    <td>
+      <p>Python</p>
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+    </td>
+  </tr>
+</table>
 - 📫 How to reach me:
 <div display="flex">
   <a href="https://www.linkedin.com/in/bakhtiyor-akhatov-06772a203/">
