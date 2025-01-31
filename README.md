@@ -76,7 +76,7 @@
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
     </td>
   </tr>
-</table> etc.
+</table> and other
 
 ### 📫 How to reach me:
 <div display="flex">
