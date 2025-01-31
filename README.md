@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on the backend of a blockchain explorer website and a digital signing project.
-- 🌱 I’m currently learning:
+### 🔭 I’m currently working on the backend of a blockchain explorer website and a digital signing project.
+
+### 🌱 I’m currently learning:
 <table>
   <tr>
     <td>
@@ -20,9 +21,9 @@
   </tr>
 </table> etc.
 
-- 👯 I’m looking to collaborate on E-commerce, Health, Fashion and more appealing projects.
+### 👯 I’m looking to collaborate on E-commerce, Health, Fashion and more appealing projects.
   
-## 💬 I am using: 
+### 💬 I am using: 
 <table>
   <tr>
     <td>
@@ -44,7 +45,7 @@
   </tr>
 </table>
 
-- 📫 How to reach me:
+### 📫 How to reach me:
 <div display="flex">
   <a href="https://www.linkedin.com/in/bakhtiyor-akhatov-06772a203/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
