@@ -19,8 +19,9 @@
     </td>
   </tr>
 </table>.
+
 - 👯 I’m looking to collaborate on E-commerce, Health, Fashion and more appealing projects.
-## 💬 Technologies I am using: 
+- 💬 Technologies I am using: 
 <table>
   <tr>
     <td>
