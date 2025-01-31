@@ -21,7 +21,8 @@
 </table> etc.
 
 - 👯 I’m looking to collaborate on E-commerce, Health, Fashion and more appealing projects.
-- 💬 Technologies I am using: 
+  
+## 💬 I am using: 
 <table>
   <tr>
     <td>
@@ -42,6 +43,7 @@
     </td>
   </tr>
 </table>
+
 - 📫 How to reach me:
 <div display="flex">
   <a href="https://www.linkedin.com/in/bakhtiyor-akhatov-06772a203/">
