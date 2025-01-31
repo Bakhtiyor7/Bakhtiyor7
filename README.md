@@ -2,24 +2,8 @@
 
 
 ### 🔭 I’m currently working on the backend of a [blockchain explorer](https://xphere.tamsa.io/main) website and a digital signing project.
-
-### 🌱 I’m currently learning:
-<table>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-    </td>
-  </tr>
-</table> etc.
-
 ### 👯 I’m looking to collaborate on E-commerce, Health, Fashion and more appealing projects.
-  
+
 ### 💬 I am using: 
 <table>
   <tr>
@@ -78,6 +62,21 @@
     </td>
   </tr>
 </table>
+
+### 🌱 I’m currently learning:
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+    </td>
+  </tr>
+</table> etc.
 
 ### 📫 How to reach me:
 <div display="flex">
