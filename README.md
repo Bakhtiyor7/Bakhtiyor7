@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
     </td>
   </tr>
-</table> etc.
+</table>.
 - 👯 I’m looking to collaborate on E-commerce, Health, Fashion and more appealing projects.
 ## 💬 Technologies I am using: 
 <table>
