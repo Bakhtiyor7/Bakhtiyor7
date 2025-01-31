@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-### 🔭 I’m currently working on the backend of a [blockchain explorer] (https://xphere.tamsa.io/main) website and a digital signing project.
+### 🔭 I’m currently working on the backend of a [blockchain explorer](https://xphere.tamsa.io/main) website and a digital signing project.
 
 ### 🌱 I’m currently learning:
 <table>
