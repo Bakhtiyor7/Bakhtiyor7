@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-### 🔭 I’m currently working on the backend of a [blockchain explorer](https://xphere.tamsa.io/main) website and a digital signing project.
-### 👯 I’m looking to collaborate on E-commerce, Health, Fashion and more appealing projects.
+### 🔭 I’m currently working on developing & maintaining backend servers of web3 projects.
+### 👯 I’m looking to collaborate on E-commerce, Health, Fashion and more appealing projects in the future.
 
 ### 💬 I am using: 
 <table>
